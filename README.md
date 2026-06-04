@@ -32,6 +32,7 @@ public class Vijayaprabakaran {
         "DSA & Problem Solving"
     };
 
+
     String funFact   = "I managed cultural events AND wrote REST APIs 🎭💻";
 
     String motto() {
